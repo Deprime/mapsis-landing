@@ -42,6 +42,7 @@
 	"dependencies": {
 		"@supabase/auth-helpers-sveltekit": "^0.10.2",
 		"@supabase/supabase-js": "^2.33.1",
+		"svelte-inclusive-datepicker": "^1.0.0-alpha.1",
 		"tailwind-merge": "^1.14.0",
 		"zod": "^3.22.2"
 	}
